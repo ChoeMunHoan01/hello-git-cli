@@ -2,4 +2,8 @@ hello git
 second
 third - my branch
 fouth - my branch
+<<<<<<< HEAD
 some hot fix
+=======
+기능 1 추가
+>>>>>>> c6fef11 (새로운 기능 1 추가)
